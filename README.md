@@ -16,11 +16,10 @@
 - Geometry & Mathematics
 - Logic & Algorithms
 - English & Mathematics 
+
 ---
 
-## 🚀 Projects
-
-### 💡 Hard Work Project Series
+### 💡 Hard Work Project Series & ## 🚀 Projects
 All of my projects are made through deep thinking, logic, and step-by-step coding practice. I build and test each project myself to improve both logic and creativity.
 
 ---
